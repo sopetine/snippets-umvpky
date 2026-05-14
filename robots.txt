@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sopetine.github.io/snippets-umvpky/sitemap.xml
